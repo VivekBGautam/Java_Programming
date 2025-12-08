@@ -1,4 +1,4 @@
-#Assignment 2
+# Assignment 2
  This folder contains warmup codes which are:- 
  1. Used print * by taking input from user
  2. Display string based on condition
